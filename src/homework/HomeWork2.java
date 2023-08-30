@@ -1,4 +1,4 @@
-package lesson2;
+package homework;
 
 import java.util.Scanner;
 public class HomeWork2 {
@@ -27,6 +27,7 @@ public class HomeWork2 {
 
 
         System.out.print(" Task 2  \n\r");
+
         //Первый вариант решения
         int a = 345;
         int b = a / 100;
