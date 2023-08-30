@@ -1,5 +1,5 @@
 package lesson2;
-
+//29.08.2023
 public class MySecondClass {
     public static void main (String[] args){
         byte a1 = 1;
