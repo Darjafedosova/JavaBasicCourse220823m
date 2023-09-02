@@ -1,7 +1,7 @@
 package homework3;
 public class HomeWork3 {
     public static void main(String[] args){
-        String myString = new String("I study Basic Java!");
+        String myString = "I study Basic Java!";
         printString(myString);
 
     }
@@ -29,7 +29,6 @@ public class HomeWork3 {
 
         String lowerCaseString = inputString.toLowerCase();
         System.out.println("Строка в нижнем регистре: " + lowerCaseString);
-
 
     }
 
