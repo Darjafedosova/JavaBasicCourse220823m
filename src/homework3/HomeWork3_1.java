@@ -1,5 +1,5 @@
 package homework3;
-public class HomeWork3 {
+public class HomeWork3_1 {
     public static void main(String[] args){
         String myString = "I study Basic Java!";
         printString(myString);
@@ -10,7 +10,7 @@ public class HomeWork3 {
 
 
         char preLastChar = inputString.charAt(inputString.length() - 2);
-        System.out.println("Пред-последний символ: " + preLastChar);
+        System.out.println("Пред последний символ: " + preLastChar);
 
 
         boolean containsJava = inputString.contains("Java");
@@ -29,6 +29,8 @@ public class HomeWork3 {
 
         String lowerCaseString = inputString.toLowerCase();
         System.out.println("Строка в нижнем регистре: " + lowerCaseString);
+
+
 
     }
 
