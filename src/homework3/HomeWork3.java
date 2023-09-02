@@ -20,7 +20,7 @@ public class HomeWork3 {
                 + inputString.substring(inputString.indexOf("Java") + 4);
         System.out.println("Строка без 'Java': " + stringWithoutJava);
 
-        String replacedString = inputString.replace('а', 'о');
+        String replacedString = inputString.replace('a', 'o');
         System.out.println("Строка после замены: " + replacedString);
 
 
@@ -29,14 +29,6 @@ public class HomeWork3 {
 
         String lowerCaseString = inputString.toLowerCase();
         System.out.println("Строка в нижнем регистре: " + lowerCaseString);
-
-
-
-
-
-
-
-
 
 
     }
