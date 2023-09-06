@@ -1,7 +1,27 @@
-package homework2;
+package homework;
+/*
+№ 1
+В методе main инициализировать все примитивные типы.
+Вывести их результат в консоль:
+char: G
+int: 89
+byte: 4
+short: 56
+float: 4.7333436
+double: 4.355453532
+long: 12121
 
+
+№ 2*
+Дано трехзначное число. Вывести на экран все цифры этого числа, которые вы должны получить
+ в результате математических действий над этим числом.
+
+Пример: 345
+Вывод в консоль: Число 345 -> 3, 4, 5
+
+ */
 import java.util.Scanner;
-public class HomeWork2 {
+public class HomeWork0 {
     public static void main(String[] args) {
 
 

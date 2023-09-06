@@ -1,4 +1,4 @@
-package homework3;
+package homework;
 
 public class MathOper {
     double x;
