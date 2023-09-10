@@ -1,5 +1,9 @@
 package homework.four;
+
+import java.util.Random;
+
 /*
+07.09.2023
 Есть устройство, на табло которого показывается количество секунд, оставшихся до конца рабочего дня.
  Когда рабочий день начинается ровно в 9 часов утра — табло отображает «28800» (т.е. остаётся 8 часов),
   когда 14:30 — на табло «9000» (т.е. остаётся два с половиной часа),
@@ -14,4 +18,21 @@ package homework.four;
     должна выводиться фраза о количестве полных часов, содержащихся в n секундах.
  */
 public class HomeWork5 {
+    public static void main(String[] args) {
+
+        Random random = new Random();
+        int n = random.nextInt(28801);
+
+        System.out.println("Осталось " + n + " секунд.");
+
+        int hours = n / 3600;
+
+
+        if (hours > 0) {
+            System.out.println("Осталось " + hours + " часов.");
+        } else {
+            System.out.println("Осталось менее часа.");
+        }
+    }
 }
+

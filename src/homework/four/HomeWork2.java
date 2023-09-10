@@ -3,7 +3,7 @@ package homework.four;
 import java.util.Scanner;
 
 /*
-
+07.09.2023
 Создайте две переменные isWeekend и isRain.
 Создайте переменную canWalk, значение которой должно быть истинным,
 если это выходной день (isWeekend=true) и не идет дождь (isRain=false).
