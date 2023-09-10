@@ -1,4 +1,4 @@
-package homework;
+package homework.four;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 Создайте переменную canWalk, значение которой должно быть истинным,
 если это выходной день (isWeekend=true) и не идет дождь (isRain=false).
  */
-public class HomeWork5_2 {
+public class HomeWork2 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

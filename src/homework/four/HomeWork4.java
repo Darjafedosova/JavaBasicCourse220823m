@@ -1,4 +1,4 @@
-package homework;
+package homework.four;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
 Ваша программа должна иметь переменные Temperature1 и Temperature2.
 В результате он выводит сообщение true или false.
  */
-public class HomeWork5_4 {
+public class HomeWork4 {
 
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);

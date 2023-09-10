@@ -1,10 +1,11 @@
-package homework;
+package homework.four;
 /*
+07.09.2023
 Реализовать метод, который конвертирует указанную сумму в евро в сумму в долларах США
  */
 import java.util.Scanner;
 
-public class HomeWork5_1 {
+public class HomeWork1 {
     public static void main(String[] args) {
 
             Scanner scanner = new Scanner(System.in);
