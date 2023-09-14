@@ -1,4 +1,5 @@
-package homework;
+package homework.two3108;
+
 /*
 Реализовать программу, выводящую на экран результаты:
 ● Сложения двух чисел
@@ -8,7 +9,7 @@ package homework;
 Каждая из арифметических операций должна быть реализована как отдельный
 метод.
  */
-public class HomeWork3 {
+public class metod {
         public static void main(String[] args) {
             MathOper calc = new MathOper();
 
