@@ -1,4 +1,4 @@
-package homework.one;
+package homework.one2609;
 /*
 26.09.2023
 № 1
@@ -14,7 +14,7 @@ long: 12121
 
 
  */
-import java.util.Scanner;
+
 public class main {
     public static void main(String[] args) {
 
