@@ -28,9 +28,8 @@ public class HomeWork4 {
 
             scanner.close();
         }
-
-        public static boolean checkDevice(int temperature1, int temperature2) {
-            return temperature1 > 100 && temperature2 < 100;
-        }
+    public static boolean checkDevice(int temperature1, int temperature2) {
+        return temperature1 > 100 && temperature2 < 100;
+    }
     }
 
